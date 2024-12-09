@@ -1,6 +1,4 @@
-### `Before you run the app please make sure you pasted the api key in the .env file`
-
-to run the app use
+### `Before running the app, please make sure you paste the API key into the .env file.`
 
 ### `npm start`
 
